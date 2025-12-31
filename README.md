@@ -144,7 +144,6 @@ weather-forecasting-comparison/
 │   ├── prophet_vs_gpt4_vs_actual_comparison.csv
 │   └── detailed_forecast_vs_actual_december_2025.csv
 └── 📁 visualizations/
-    ├── prophet_vs_gpt4_comparison_linkedin.png
     ├── temperature_comparison_december_2025.png
     └── temperature_correlation_december_2025.png
 ```
